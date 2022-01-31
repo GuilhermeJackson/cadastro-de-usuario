@@ -1,0 +1,11 @@
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\bin\Debug\Cadastro-de-usuario.exe.config
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\bin\Debug\Cadastro-de-usuario.exe
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\bin\Debug\Cadastro-de-usuario.pdb
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro-de-usuario.csproj.AssemblyReference.cache
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro_de_usuario.listRegister.resources
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro_de_usuario.Properties.Resources.resources
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro_de_usuario.register.resources
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro-de-usuario.csproj.GenerateResource.cache
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro-de-usuario.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro-de-usuario.exe
+C:\Users\Guilherme.Lamim\source\repos\Cadastro-de-usuario\obj\Debug\Cadastro-de-usuario.pdb
